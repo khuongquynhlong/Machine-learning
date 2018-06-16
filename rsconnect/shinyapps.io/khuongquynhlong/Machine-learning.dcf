@@ -1,0 +1,13 @@
+name: Machine-learning
+title: Machine-learning
+username:
+account: khuongquynhlong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 361820
+bundleId: 1432498
+url: https://khuongquynhlong.shinyapps.io/Machine-learning/
+when: 1529120226.26208
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: bw.csv|README.md
